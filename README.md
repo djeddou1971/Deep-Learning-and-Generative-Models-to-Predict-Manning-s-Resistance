@@ -1,0 +1,2 @@
+# Deep-Learning-and-Generative-Models-to-Predict-Manning-s-Resistance
+A Jupyter Notebook implementing Manning’s roughness coefficient (n) prediction using Deep Neural Network (DNN) ensembling combined with Conditional GAN (cGAN) latent-space sampling. The workflow integrates data preprocessing, model training, uncertainty-aware synthetic data generation, explainability, and performance evaluation.
